@@ -19,3 +19,8 @@
 ---
 
 [GitHub * Personal access tokens](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/KtbxLwgswrfxtLZJbFzLlPHzglccGQBXXV)
+
+
+---
+
+[Community contributed extensions: Modules repository](https://www.playframework.com/modules)
