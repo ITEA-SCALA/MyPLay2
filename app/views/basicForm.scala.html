@@ -6,7 +6,7 @@
     <h1>Scala Play forms tutorial</h1>
 
 
-    @form(action = routes.BasicController.simpleFormPost) {
+    @form(action = routes.BasicController.simpleFormPost()) {
         @inputText(userForm("name"))
         @inputText(userForm("age"))
 
