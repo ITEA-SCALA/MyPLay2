@@ -9,6 +9,12 @@
 
 ![Screenshot-02](screenshot-02.png)
 
+# Creating forms on your Play application - Part 1
+
+![Screenshot-03](screenshot-03.png)
+
+* https://pedrorijo.com/blog/play-forms/
+
 
 ---
 
